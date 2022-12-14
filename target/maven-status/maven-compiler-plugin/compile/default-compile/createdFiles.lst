@@ -1,0 +1,12 @@
+org/example/Controllers/CorsFilter.class
+org/example/Controllers/CategorieController.class
+org/example/Entity/LivreWithCatLabel.class
+org/example/Metiers/LivreDAO.class
+org/example/Services/LivreService.class
+org/example/Metiers/CategorieDao.class
+org/example/App.class
+org/example/Entity/Livre.class
+org/example/Controllers/LivreController.class
+org/example/Entity/Catgorie.class
+org/example/DAO/ConnectionSingleton.class
+org/example/Metiers/ILivreDAO.class

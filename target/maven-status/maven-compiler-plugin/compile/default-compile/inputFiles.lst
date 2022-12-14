@@ -1,0 +1,11 @@
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/DAO/ConnectionSingleton.java
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/Entity/Catgorie.java
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/Controllers/LivreController.java
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/Controllers/CorsFilter.java
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/Metiers/CategorieDao.java
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/Controllers/CategorieController.java
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/Entity/Livre.java
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/App.java
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/Services/LivreService.java
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/Metiers/ILivreDAO.java
+/home/oussema/Desktop/SOA/gestionLivre/src/main/java/org/example/Metiers/LivreDAO.java
